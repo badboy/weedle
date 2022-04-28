@@ -1,3 +1,7 @@
+**NOTE**: Weedle2 moved to the [UniFFI repository](https://github.com/mozilla/uniffi-rs/tree/main/weedle2) in April 2022.
+
+---
+
 <div align="center">
 
   <h1>Weedle 2 - Electric Boogaloo</h1>
